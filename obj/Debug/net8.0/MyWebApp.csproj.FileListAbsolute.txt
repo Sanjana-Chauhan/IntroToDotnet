@@ -159,3 +159,4 @@ C:\Users\SANJANA\Desktop\MyWebApp\bin\Debug\net8.0\runtimes\win-arm64\native\e_s
 C:\Users\SANJANA\Desktop\MyWebApp\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\SANJANA\Desktop\MyWebApp\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\SANJANA\Desktop\MyWebApp\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\SANJANA\Desktop\MyWebApp\obj\Debug\net8.0\MyWebApp.sourcelink.json
